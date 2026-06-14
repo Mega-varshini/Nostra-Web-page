@@ -1,6 +1,9 @@
 # Nostra-Web-page
 Nostra is a responsive fashion e-commerce website built using HTML, CSS, and JavaScript.** **It features product collections, search, filters, and a modern user-friendly design.Nostra is a modern and responsive fashion e-commerce website developed using HTML, CSS, and JavaScript. The project provides a clean shopping interface with product collections, search functionality, category filtering, and interactive elements.
 
+# How to see
+you can see my project by this https://mega-varshini.github.io/Nostra-Web-page/
+
 ## Features
 
 - Responsive design for desktop, tablet, and mobile devices
